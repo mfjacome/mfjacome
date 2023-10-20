@@ -1,7 +1,5 @@
 ## Seja bem-vindo(a)!
 
-- 🔭 Trabalho como Back-end;
-- 🌱 Estudando: JavaScript, Python, SQL Oracle, Amazon Web Service(foco para certificação Cloud Practitioner); 
 - 📫 E-mail: matheus.fause@gmail.com
 
 
